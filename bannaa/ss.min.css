@@ -1,0 +1,10 @@
+body{background-image:url(gig.gif);background-repeat:no-repeat;background-size:100%;}
+.pp{border:5px dashed yellow;background-color:Turquoise;height:100px;width:200px;text-align:center;font-size:26px;font-weight:bold}
+a{font-size:60px;color:forestgreen;}
+a:hover{font-size:120px;color:red}
+#urmom{text-align:center;}
+h1{font-size:70px;color:blue;}
+a:focus~#background{background-color:red;}
+button:hover{height:60px;width:60px;background-color:red;font-weight:bold;font-size:12px}
+#background{position:absolute;background-image:url(gig.gif);background-repeat:no-repeat;background-size:100%;top:0px;right:0px;bottom:0px;left:0px;z-index:-1;}
+

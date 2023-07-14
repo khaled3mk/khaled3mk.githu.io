@@ -1,0 +1,39 @@
+body 
+{
+    background-image:url(rr.jpg);
+background-repeat:no-repeat;
+background-size: 100%
+}
+h1
+{
+	font-size:269px;
+	text-align: center;
+	font-family:Brush Script MT, Brush Script Std, cursive;
+	color:white;
+	outline:double black 69px;
+	
+}
+#b
+{
+	border:8px solid black;
+	height:700px;
+	width:700px;
+	float:left
+	
+
+}
+
+#h
+{border:8px solid black;
+	height:700px;
+	width:700px;
+	float:right;
+	alignment-adjust:after-edge
+}
+
+#p
+{
+	height:1200px;
+	width:3700px;
+	text-align:center;
+}
